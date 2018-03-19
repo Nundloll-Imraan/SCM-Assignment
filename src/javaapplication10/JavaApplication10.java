@@ -11,7 +11,6 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author elijameslennox
  */
 public class JavaApplication10 {
 

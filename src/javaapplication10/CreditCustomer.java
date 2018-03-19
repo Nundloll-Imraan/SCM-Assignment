@@ -6,7 +6,6 @@ package javaapplication10;
 
 /**
  * Creates Credit Customer Object (inherits from Customer Object)
- * @author elijameslennox
  */
 public class CreditCustomer extends Customer{
     

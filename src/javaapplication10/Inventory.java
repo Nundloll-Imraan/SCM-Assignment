@@ -6,7 +6,6 @@ package javaapplication10;
 
 /**
  *
- * @author elijameslennox
  */
 public class Inventory implements Comparable<Inventory> {
     

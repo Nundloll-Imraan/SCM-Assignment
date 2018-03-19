@@ -8,7 +8,6 @@ import java.io.File;
 
 /**
  *
- * @author elijameslennox
  */
 public class NewJFrame extends javax.swing.JFrame {
 

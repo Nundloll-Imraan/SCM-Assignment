@@ -6,7 +6,6 @@ package javaapplication10;
 
 /**
  *
- * @author elijameslennox
  */
 public abstract class Customer implements Comparable<Customer> {
     public int customerID;

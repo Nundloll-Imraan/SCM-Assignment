@@ -17,7 +17,6 @@ import javax.swing.WindowConstants;
 
 /**
  *
- * @author elijameslennox
  */
 public class CreateAnOrder extends javax.swing.JFrame {
 

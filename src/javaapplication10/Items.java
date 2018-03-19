@@ -1,13 +1,3 @@
-/*Name: Eli Lennox
- * Class: COM 285
- * Date: 6/23/13
- * Purpose: Project 2 is meant to read in a file Customer into an object of a class customer.  
- * The objects are part of 2 child classes, denoting whether the customer is a cash or credit customer.
- * The project also is an exercise in modular design, breaking down the subtasks where the objects
- * item, order, and customer all interact.
-
-
-*/
 package javaapplication10;
 
 import java.io.BufferedReader;

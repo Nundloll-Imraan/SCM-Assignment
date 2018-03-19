@@ -12,7 +12,6 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author elijameslennox
  */
 public class AMenu extends javax.swing.JFrame {
 

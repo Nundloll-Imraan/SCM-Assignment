@@ -6,7 +6,6 @@ package javaapplication10;
 
 /**
  * Creates Cash Customer Object (inherits from Customer Object)
- * @author elijameslennox
  */
 public class CashCustomer extends Customer {
     

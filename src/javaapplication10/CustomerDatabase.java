@@ -16,7 +16,6 @@ import java.util.StringTokenizer;
 
 /**
  *
- * @author elijameslennox
  */
 public class CustomerDatabase {
 
