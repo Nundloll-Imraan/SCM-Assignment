@@ -1,7 +1,21 @@
 .metadata
 <<<<<<< HEAD
+<<<<<<< HEAD
 .metadata/.mylyn/tasks.xml.zip
 =======
 .metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
 >>>>>>> Customer
 *.xmi
+=======
+.metadata/.mylyn/.tasks.xml.zip
+.metadata/.mylyn/tasks.xml.zip
+.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+*.xmi
+=======
+.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+>>>>>>> Customer
+*.xmi
+*.xmi
+>>>>>>> Master
+*.zip
+*.zip
