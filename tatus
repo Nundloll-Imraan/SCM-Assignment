@@ -1,0 +1,175 @@
+[33mcommit b36adb72134f758a18f4ce12358c315fbb8343c4[m[33m ([m[1;36mHEAD -> [m[1;32mMaster[m[33m, [m[1;31morigin/Master[m[33m)[m
+Author: Nundloll-Imraan <37510368+Nundloll-Imraan@users.noreply.github.com>
+Date:   Mon Mar 19 07:44:21 2018 +0400
+
+    Ignore
+
+[33mcommit ad7df93d16a204ace501ee259e8d72c6b1667b0f[m
+Author: Nundloll-Imraan <37510368+Nundloll-Imraan@users.noreply.github.com>
+Date:   Mon Mar 19 07:43:02 2018 +0400
+
+    Ignore
+
+[33mcommit 67f0418bfaeedfebd4052df127a05868b848da77[m
+Author: Nundloll-Imraan <37510368+Nundloll-Imraan@users.noreply.github.com>
+Date:   Mon Mar 19 05:37:12 2018 +0400
+
+    Ignores
+
+[33mcommit 1755d6a18ac4fabb52d8d8708e3459578146138c[m
+Author: Nundloll-Imraan <37510368+Nundloll-Imraan@users.noreply.github.com>
+Date:   Mon Mar 19 05:19:50 2018 +0400
+
+    Test CSV files working
+
+[33mcommit 2e9920179b5008e760d5ac932cd2af6efe8c1598[m
+Merge: f321e92 72b4244
+Author: Nundloll-Imraan <37510368+Nundloll-Imraan@users.noreply.github.com>
+Date:   Mon Mar 19 05:18:29 2018 +0400
+
+    Merge branch 'Inventory' into Master
+
+[33mcommit f321e927021a99d7e2bb1f2b25c2f6cf7c350235[m
+Merge: f1bb0a2 56973c5
+Author: Nundloll-Imraan <37510368+Nundloll-Imraan@users.noreply.github.com>
+Date:   Mon Mar 19 05:18:22 2018 +0400
+
+    Merge branch 'Customer' into Master
+
+[33mcommit f1bb0a2ad8d802fcaa280ee6e62992bc2b4fe2d7[m
+Merge: 434abe3 b23707f
+Author: Nundloll-Imraan <37510368+Nundloll-Imraan@users.noreply.github.com>
+Date:   Mon Mar 19 05:18:15 2018 +0400
+
+    Merge branch 'Order' into Master
+
+[33mcommit 434abe30327298ea82095f6e18f386897478f7ea[m
+Author: Nundloll-Imraan <37510368+Nundloll-Imraan@users.noreply.github.com>
+Date:   Mon Mar 19 05:17:58 2018 +0400
+
+    Menu, Java App and JFrame added
+
+[33mcommit b23707f120298fa6928214fa01bf9ce4676bc307[m[33m ([m[1;31morigin/Order[m[33m, [m[1;32mOrder[m[33m)[m
+Author: Nundloll-Imraan <37510368+Nundloll-Imraan@users.noreply.github.com>
+Date:   Mon Mar 19 05:17:07 2018 +0400
+
+    Order create and Oder files added
+
+[33mcommit 56973c55e05166fee4757ab7fce69e8e703e8cc4[m[33m ([m[1;31morigin/Customer[m[33m, [m[1;32mCustomer[m[33m)[m
+Author: Nundloll-Imraan <37510368+Nundloll-Imraan@users.noreply.github.com>
+Date:   Mon Mar 19 05:16:19 2018 +0400
+
+    Customer Added
+
+[33mcommit bb65d453864e799086aab53266c0e0a63b356e13[m
+Author: Nundloll-Imraan <37510368+Nundloll-Imraan@users.noreply.github.com>
+Date:   Mon Mar 19 05:15:41 2018 +0400
+
+    Payment type Customer and Customer Database added
+
+[33mcommit 72b4244de780d4c5b7411469c2e39be66447b3a9[m[33m ([m[1;31morigin/Inventory[m[33m, [m[1;32mInventory[m[33m)[m
+Author: Nundloll-Imraan <37510368+Nundloll-Imraan@users.noreply.github.com>
+Date:   Mon Mar 19 05:14:18 2018 +0400
+
+    Added Inventory
+
+[33mcommit 78ce4ac165ab72b1e62a3e6c65645d1167d8e725[m[33m ([m[1;31morigin/Menu[m[33m, [m[1;31morigin/Items[m[33m, [m[1;31morigin/Forms[m[33m, [m[1;32mMenu[m[33m, [m[1;32mItems[m[33m, [m[1;32mForms[m[33m)[m
+Merge: 5191edc 7e88aeb
+Author: Nundloll-Imraan <37510368+Nundloll-Imraan@users.noreply.github.com>
+Date:   Mon Mar 19 05:09:57 2018 +0400
+
+    Merge branch 'Master' into Order
+
+[33mcommit 5191edc3cbb1ed184159720eda8ebce3f33d02e0[m
+Merge: 2b83604 0419921
+Author: Nundloll-Imraan <37510368+Nundloll-Imraan@users.noreply.github.com>
+Date:   Mon Mar 19 05:09:17 2018 +0400
+
+    Merge branch 'Customer' into Order
+
+[33mcommit 2b8360479d1ab51edaf524435b7414dbde418d99[m
+Merge: a48a939 61257f4
+Author: Nundloll-Imraan <37510368+Nundloll-Imraan@users.noreply.github.com>
+Date:   Mon Mar 19 05:08:24 2018 +0400
+
+    Merge branch 'Forms' into Order
+
+[33mcommit 61257f438c39152490496de1672ac75f45ab8eb8[m
+Author: Nundloll-Imraan <37510368+Nundloll-Imraan@users.noreply.github.com>
+Date:   Mon Mar 19 05:03:04 2018 +0400
+
+    Menu, Create Order and NewJFrame forms added
+
+[33mcommit a48a939c7db4fc2f3b787a190911bdc1602a243b[m
+Author: Nundloll-Imraan <37510368+Nundloll-Imraan@users.noreply.github.com>
+Date:   Mon Mar 19 05:00:19 2018 +0400
+
+    Added Items
+
+[33mcommit 7e88aeb168e28e7f877e0ef3e70413af1f1c1778[m
+Author: Nundloll-Imraan <37510368+Nundloll-Imraan@users.noreply.github.com>
+Date:   Mon Mar 19 04:59:24 2018 +0400
+
+    Ignores
+
+[33mcommit 259ad4a8c2a867a1d3057980c1618372792e5f7e[m
+Author: Nundloll-Imraan <37510368+Nundloll-Imraan@users.noreply.github.com>
+Date:   Mon Mar 19 04:56:39 2018 +0400
+
+    Additions of Libraries,Build, Manifest and NProject
+
+[33mcommit cc891538fd6fdaff04ea1c51f02022dd848c8886[m
+Merge: fbb9ce3 0419921
+Author: Nundloll-Imraan <37510368+Nundloll-Imraan@users.noreply.github.com>
+Date:   Mon Mar 19 04:49:09 2018 +0400
+
+    Merge branch 'Customer' into Master
+
+[33mcommit fbb9ce39ed4272121814039219e2160b279f57b6[m
+Author: Nundloll-Imraan <37510368+Nundloll-Imraan@users.noreply.github.com>
+Date:   Mon Mar 19 04:39:50 2018 +0400
+
+    Ignoring all .xmi files
+
+[33mcommit 12a1681a144d11c33dbaa24deee46bc43794820d[m
+Author: Nundloll-Imraan <37510368+Nundloll-Imraan@users.noreply.github.com>
+Date:   Mon Mar 19 04:11:33 2018 +0400
+
+    Added to ignore
+
+[33mcommit 0419921a6727956cf636f3724999863189c0705f[m
+Author: Nundloll-Imraan <37510368+Nundloll-Imraan@users.noreply.github.com>
+Date:   Mon Mar 19 03:50:12 2018 +0400
+
+    Ignoring
+
+[33mcommit d7ffe50f656da05f3c8b35870d52bb3f6363fac7[m
+Author: Nundloll-Imraan <37510368+Nundloll-Imraan@users.noreply.github.com>
+Date:   Mon Mar 19 03:48:05 2018 +0400
+
+    Ignoring .metadata
+
+[33mcommit 20c4da00f88c838ac8766d290d9fb669a62cee8e[m
+Author: Nundloll-Imraan <37510368+Nundloll-Imraan@users.noreply.github.com>
+Date:   Mon Mar 19 03:47:00 2018 +0400
+
+    Task and Work Bench Updates
+
+[33mcommit d9850bb85046ed2577ec8b8392fd3949f8fc2451[m
+Author: Nundloll-Imraan <37510368+Nundloll-Imraan@users.noreply.github.com>
+Date:   Mon Mar 19 03:37:03 2018 +0400
+
+    Adding Eclipse Directory
+    
+    This is the addition of Eclipse.
+    
+    Eclipse IDE for Java Developers.
+    
+    Version: Oxygen.2 Release (4.7.2)
+    Build id: 20171218-0600
+
+[33mcommit 9c43d06275c0825719a230fdebcbf69a8298e8a5[m
+Author: Nundloll-Imraan <37510368+Nundloll-Imraan@users.noreply.github.com>
+Date:   Sun Mar 18 22:04:59 2018 +0400
+
+    Initial commit
